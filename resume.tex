@@ -1,0 +1,223 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Pranav Shukla} \\ \vspace{1pt}
+    \small 248-403-0495 $|$ \href{mailto:pranavshuklajobs@gmail.com}{\underline{pranavshuklajobs@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/pranavshhh/}{\underline{linkedin.com/in/pranavshhh/}} $|$
+    \href{https://github.com/FireTeamSix}{\underline{github.com/FireTeamSix}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Michigan State University}{East Lansing, MI}
+      {Bachelor of Science in Computer Science}{Sep. 2020 -- May 2023}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Incoming Software Engineering Intern}{May 2022 -- Aug. 2022}
+      {The Vanguard Group}{Malvern, PA}
+      \resumeItemListStart
+        \resumeItem{Working on the infrastructure of applications used by Vanguard’s ETF traders.}
+      \resumeItemListEnd
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+    \resumeSubheading
+      {Research Assistant}{Sep. 2021 -- Present}
+      {Intelligent Data Analytics (ILLIDAN) Lab}{East Lansing, MI}
+      \resumeItemListStart
+        \resumeItem{Reviewed and presented my knowledge from several deep learning research papers to the Lead
+        Researcher and several other PhD candidates.}
+        \resumeItem{Worked with PhD candidates to combine LSTMs with Tensorflow in Python, using
+        existing strategies, such as Spatial Neural Networks, and applying them to stock trading
+        methods like limit order books.}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Business Analyst Intern}{May 2020 -- Aug. 2020}
+      {Chime Menu, RecTable LLC.}{Ann Arbor, MI}
+      \resumeItemListStart
+        \resumeItem{Developed strategy to onboard customers, allowing them to easily master the way the software works and implement it into their existing POS systems.}
+        \resumeItem{Spearheaded production of decks to present competitive analysis results to the chief officers, pinpointing RecTable’s outperformance by competitors in areas such as B2C communication and resulting in up to a 50\% customer growth.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Student IT Assistant}{Nov. 2021 -- Present}
+      {Michigan State University ComArtSci}{East Lansing, MI}
+      \resumeItemListStart
+        \resumeItem{Engaged with MSU Staff to ensure network outages were fixed quickly, and servers were kept
+        running.}
+        \resumeItem{Reimaged both Macintosh and Windows computers to conform to MSU IT Security standards.}
+        \resumeItem{Set up WiFi wiring throughout ComArtSci building, giving more than 1000 people
+        secure access to the internet.}
+        \resumeItem{Ran technical operations and helped over 350 staff and students with problems arising
+        from software and hardware.}
+      \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{AirFleet} $|$ \emph{Python, Django, JavaScript, React, PostgreSQL, AWS, aviationstack API}}{July 2021 -- Present}
+          \resumeItemListStart
+            \resumeItem{Developed a Pilot’s Logbook web app that allows users to log-in and add entries to their logbooks, including features such as adding photos, tracking flights, and route-waypoint storage.}
+            \resumeItem{Created and connected a PostgreSQL database that stores all data, and is maintained on AWS Lightsail.}
+            \resumeItem{Implemented RESTful architecture with Django for entry, updating, and deletion of logbook data by users, and connected it to a frontend using React to give a smooth user experience.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Stock Correlator} $|$ \emph{Python, BeautifulSoup4, SciKit-Learn, Yahoo! Stocks API, pandas}}{May 2020 -- Present}
+          \resumeItemListStart
+            \resumeItem{Scraped S\&P 500 stock tickers on Wikipedia using Python's BeautifulSoup4 library, and used Yahoo! Stocks API to pull all OHLC data since 2000 into a pandas dataframe.}
+            \resumeItem{Using SciKit-Learn, algorithmically calculated R2 value of Adjusted Closes between ~500
+            companies, which is displayed on to a 500 x 500 matplotlib heatmap, including color-coding for
+            positive and negative correlations.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Computer Languages}{: Python, C++, JavaScript, HTML/CSS, SQL} \\
+     \textbf{Technologies}{: PostgreSQL, OracleDB, Docker, Kubernetes, UNIX, Django, AWS, React, Pandas, SciKit-Learn} \\
+     \textbf{Software}{: Visual Studio, VIM, Git, GitHub, PyCharm} \\
+     \textbf{Natural Languages}{: Hindi, Urdu, and Punjabi}
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
