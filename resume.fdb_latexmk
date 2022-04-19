@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1648142636 "/Users/pranavshukla/repository/Resume/resume.tex" "/Users/pranavshukla/repository/Resume/resume.pdf" "resume" 1648142717
-  "/Users/pranavshukla/repository/Resume/resume.aux" 1648142637 1197 c4dd17f9cd83a7bb0a6085e674705a3a ""
-  "/Users/pranavshukla/repository/Resume/resume.tex" 1648142716 8411 5e88bb4b9239d50eb26db5b247cbb348 ""
+["pdflatex"] 1650320998 "/Users/pranavshukla/repository/Resume/resume.tex" "/Users/pranavshukla/repository/Resume/resume.pdf" "resume" 1650321004
+  "/Users/pranavshukla/repository/Resume/resume.aux" 1650321000 1197 a706e47ce480fbc8571994c4baa3d686 ""
+  "/Users/pranavshukla/repository/Resume/resume.tex" 1650321004 8289 c76fd327d55241b4866b5c0880476c59 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -86,13 +86,13 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1647473451 2724745 11a443ec0108c4ae8cf83bd6b0a5ecfe ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "resume.aux" 1648142637 1197 c4dd17f9cd83a7bb0a6085e674705a3a "pdflatex"
-  "resume.out" 1648142637 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "resume.tex" 1648142716 8411 5e88bb4b9239d50eb26db5b247cbb348 ""
+  "resume.aux" 1650321000 1197 a706e47ce480fbc8571994c4baa3d686 "pdflatex"
+  "resume.out" 1650321000 390 4d3a3466df4aec76556325aafe36c0f3 "pdflatex"
+  "resume.tex" 1650321004 8289 c76fd327d55241b4866b5c0880476c59 ""
   (generated)
-  "resume.log"
-  "resume.aux"
-  "resume.out"
-  "/Users/pranavshukla/repository/Resume/resume.pdf"
   "resume.pdf"
+  "resume.aux"
   "/Users/pranavshukla/repository/Resume/resume.log"
+  "/Users/pranavshukla/repository/Resume/resume.pdf"
+  "resume.out"
+  "resume.log"
