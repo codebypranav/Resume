@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  17 JUL 2022 16:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  17 JUL 2022 16:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -224,46 +224,85 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \TX@delta=\dimen156
 \TX@cols=\count267
 \TX@ftn=\toks22
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/usr/local/texlive/2021/texmf-dist/tex/latex/plex/plex-sans.sty
+Package: plex-sans 2019/10/123 (Bob Tennent) Style file for IBMPlexSans fonts
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count268
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+))
+LaTeX Font Info:    Trying to load font information for OT1+IBMPlexSans-TLF on input line 107.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/plex/OT1IBMPlexSans-TLF.fd
+File: OT1IBMPlexSans-TLF.fd 2019/12/06 (autoinst) Font definitions for OT1/IBMPlexSans-TLF.
+)
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/n' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 107.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 107.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count268
+\l__color_backend_stack_int=\count269
 \l__pdf_internal_box=\box51
 ) (/Users/pranavshukla/repository/Resume/resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count269
+\scratchcounter=\count270
 \scratchdimen=\dimen157
 \scratchbox=\box52
-\nofMPsegments=\count270
-\nofMParguments=\count271
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count272
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count273
 \MPscratchDim=\dimen158
-\MPnumerator=\count273
-\makeMPintoPDFobject=\count274
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks26
 )
-Package hyperref Info: Link coloring OFF on input line 106.
+Package hyperref Info: Link coloring OFF on input line 107.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -271,35 +310,76 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count275
+\c@section@level=\count276
 )
-LaTeX Info: Redefining \ref on input line 106.
-LaTeX Info: Redefining \pageref on input line 106.
-LaTeX Info: Redefining \nameref on input line 106.
+LaTeX Info: Redefining \ref on input line 107.
+LaTeX Info: Redefining \pageref on input line 107.
+LaTeX Info: Redefining \nameref on input line 107.
  (/Users/pranavshukla/repository/Resume/resume.out) (/Users/pranavshukla/repository/Resume/resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
+\c@mv@tabular=\count277
+\c@mv@boldtabular=\count278
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/b/n' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/bold/n' on input line 116.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 116.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/b/n' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/bold/n' on input line 116.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/bold/n' will be
+(Font)              scaled to size 24.88pt on input line 116.
 
 
-LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 115.
+LaTeX Font Warning: Font shape `OT1/IBMPlexSans-TLF/b/sc' undefined
+(Font)              using `OT1/IBMPlexSans-TLF/b/n' instead on input line 116.
 
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/n' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 117.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 117.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 116.
+(Font)              <7> on input line 117.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 116.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 116.
+(Font)              <5> on input line 117.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 117.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 127.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 127.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 127.
 
+LaTeX Font Warning: Font shape `OT1/IBMPlexSans-TLF/m/sc' undefined
+(Font)              using `OT1/IBMPlexSans-TLF/m/n' instead on input line 124.
+
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/sc' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 124.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 124.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 128.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 128.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 128.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/it' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/regular/it' on input line 128.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 128.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/it' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/regular/it' on input line 128.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 128.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/sc' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 132.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 132.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/b/n' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/bold/n' on input line 135.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 135.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/n' aliased to
+(Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 147.
+LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 147.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -315,18 +395,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 4D3A3466DF4AEC76556325AAFE36C0F3;390.
  ) 
 Here is how much of TeX's memory you used:
- 9631 strings out of 478994
- 141589 string characters out of 5858184
- 479905 words of memory out of 5000000
- 26989 multiletter control sequences out of 15000+600000
- 409022 words of font info for 49 fonts, out of 8000000 for 9000
+ 10490 strings out of 478994
+ 158789 string characters out of 5858184
+ 490604 words of memory out of 5000000
+ 27817 multiletter control sequences out of 15000+600000
+ 431644 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,11n,74p,320b,342s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 106314 bytes).
+ 71i,11n,74p,328b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_nzsfse.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 83597 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
