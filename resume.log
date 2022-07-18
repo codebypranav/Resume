@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  17 JUL 2022 16:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  17 JUL 2022 20:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,6 +380,15 @@ LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/n' aliased to
 (Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 147.
 LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
 (Font)              scaled to size 6.0pt on input line 147.
+LaTeX Font Info:    Trying to load font information for TS1+IBMPlexSans-TLF on input line 147.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/plex/TS1IBMPlexSans-TLF.fd
+File: TS1IBMPlexSans-TLF.fd 2019/12/06 (autoinst) Font definitions for TS1/IBMPlexSans-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/m/n' aliased to
+(Font)              `TS1/IBMPlexSans-TLF/regular/n' on input line 147.
+LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 147.
+
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -395,18 +404,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 4D3A3466DF4AEC76556325AAFE36C0F3;390.
  ) 
 Here is how much of TeX's memory you used:
- 10490 strings out of 478994
- 158789 string characters out of 5858184
+ 10621 strings out of 478994
+ 162903 string characters out of 5858184
  490604 words of memory out of 5000000
- 27817 multiletter control sequences out of 15000+600000
- 431644 words of font info for 51 fonts, out of 8000000 for 9000
+ 27942 multiletter control sequences out of 15000+600000
+ 432319 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,11n,74p,328b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_nzsfse.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 83597 bytes).
+ 71i,11n,74p,317b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_eywvcp.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_nzsfse.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 84689 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
