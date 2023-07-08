@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  23 DEC 2022 11:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  7 JUL 2023 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,13 +380,20 @@ LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/n' aliased to
 (Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 158.
 LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
 (Font)              scaled to size 6.0pt on input line 158.
+LaTeX Font Info:    Trying to load font information for OML+IBMPlexSans-TLF on input line 158.
+LaTeX Font Info:    No file OMLIBMPlexSans-TLF.fd. on input line 158.
+
+LaTeX Font Warning: Font shape `OML/IBMPlexSans-TLF/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textgreater' on input line 158.
+
 LaTeX Font Info:    Trying to load font information for TS1+IBMPlexSans-TLF on input line 158.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/plex/TS1IBMPlexSans-TLF.fd
 File: TS1IBMPlexSans-TLF.fd 2019/12/06 (autoinst) Font definitions for TS1/IBMPlexSans-TLF.
 )
-LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/m/n' aliased to
-(Font)              `TS1/IBMPlexSans-TLF/regular/n' on input line 158.
-LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/regular/n' will be
+LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/b/n' aliased to
+(Font)              `TS1/IBMPlexSans-TLF/bold/n' on input line 158.
+LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/bold/n' will be
 (Font)              scaled to size 10.0pt on input line 158.
 
 
@@ -404,18 +411,18 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 4D3A3466DF4AEC76556325AAFE36C0F3;390.
  ) 
 Here is how much of TeX's memory you used:
- 10617 strings out of 478994
- 162857 string characters out of 5858184
- 490604 words of memory out of 5000000
- 27938 multiletter control sequences out of 15000+600000
- 432319 words of font info for 53 fonts, out of 8000000 for 9000
+ 10626 strings out of 478994
+ 163049 string characters out of 5858184
+ 493604 words of memory out of 5000000
+ 27945 multiletter control sequences out of 15000+600000
+ 432323 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,11n,74p,323b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_eywvcp.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_nzsfse.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 86580 bytes).
+ 71i,11n,74p,305b,476s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_eywvcp.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_nzsfse.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 94744 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

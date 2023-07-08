@@ -642,10 +642,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/plex/TS1IBMPlexSans-TLF.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/plex/TS1IBMPlexSans-TLF.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/plex/TS1IBMPlexSans-TLF.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/plex/TS1IBMPlexSans-TLF.fd
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ibm/plex/IBMPlexSans-tlf-ts1.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ibm/plex/IBMPlexSans-Bold-tlf-ts1.tfm
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/ibm/plex/IBMPlexSans-tlf-ts1.vf
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ibm/plex/IBMPlexSans-tlf-ts1--base.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/vf/ibm/plex/IBMPlexSans-Bold-tlf-ts1.vf
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/ibm/plex/IBMPlexSans-Bold-tlf-ts1--base.tfm
 INPUT /Users/pranavshukla/repository/Resume/resume.aux
 INPUT /Users/pranavshukla/repository/Resume/resume.out
 INPUT /Users/pranavshukla/repository/Resume/resume.out
@@ -654,5 +654,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_nzsfse.enc
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Italic.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans.pfb
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
