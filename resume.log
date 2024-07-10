@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  24 JUL 2023 21:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.3.16)  9 JUL 2024 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,21 +380,21 @@ LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/m/n' aliased to
 (Font)              `OT1/IBMPlexSans-TLF/regular/n' on input line 166.
 LaTeX Font Info:    Font shape `OT1/IBMPlexSans-TLF/regular/n' will be
 (Font)              scaled to size 6.0pt on input line 166.
-LaTeX Font Info:    Trying to load font information for OML+IBMPlexSans-TLF on input line 176.
-LaTeX Font Info:    No file OMLIBMPlexSans-TLF.fd. on input line 176.
+LaTeX Font Info:    Trying to load font information for OML+IBMPlexSans-TLF on input line 184.
+LaTeX Font Info:    No file OMLIBMPlexSans-TLF.fd. on input line 184.
 
 LaTeX Font Warning: Font shape `OML/IBMPlexSans-TLF/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textgreater' on input line 176.
+(Font)              for symbol `textgreater' on input line 184.
 
-LaTeX Font Info:    Trying to load font information for TS1+IBMPlexSans-TLF on input line 176.
+LaTeX Font Info:    Trying to load font information for TS1+IBMPlexSans-TLF on input line 184.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/plex/TS1IBMPlexSans-TLF.fd
 File: TS1IBMPlexSans-TLF.fd 2019/12/06 (autoinst) Font definitions for TS1/IBMPlexSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/m/n' aliased to
-(Font)              `TS1/IBMPlexSans-TLF/regular/n' on input line 176.
+(Font)              `TS1/IBMPlexSans-TLF/regular/n' on input line 184.
 LaTeX Font Info:    Font shape `TS1/IBMPlexSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 176.
+(Font)              scaled to size 10.0pt on input line 184.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -413,13 +413,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  10628 strings out of 478994
  163062 string characters out of 5858184
- 492604 words of memory out of 5000000
+ 495604 words of memory out of 5000000
  27946 multiletter control sequences out of 15000+600000
  432319 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,11n,74p,303b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_eywvcp.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/plex/plx_nzsfse.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Bold.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans-Italic.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/ibm/plex/IBMPlexSans.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 94275 bytes).
+Output written on /Users/pranavshukla/repository/Resume/resume.pdf (1 page, 94554 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
